@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestProfiler</string>
+    <string name="app_clue">I am a clue !</string>
+</resources>
